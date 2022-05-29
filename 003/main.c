@@ -21,5 +21,7 @@ int main()
     printf("16 X 9 = %d\n",16*9);
     printf("16 X 10 = %d\n",16*10);
 
+    getch();
+
     return 0;
 }
